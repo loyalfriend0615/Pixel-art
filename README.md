@@ -6,7 +6,7 @@ An interesting website, created for wasting time while drawing, or creating fun 
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/loyalfriend1109/Pixel-Art.git
+git clone https://github.com/loyalfriend0615/Pixel-Art.git
 ```
 
 ### Running the website
